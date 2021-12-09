@@ -2,7 +2,7 @@
  	
 # Getting Started
 
-This DVD contains a GNSS Software Defined Radio (SDR) implemented in MATLAB code and GNSS signal records. In addition, some of the scripts for creating the figures in the text are also on included.
+This DVD contains a GNSS Software Defined Receiver (SDR) implemented in MATLAB code and GNSS signal records. In addition, some of the scripts for creating the figures in the text are also on included.
 
 # Legal Information (disclaimer)
 
